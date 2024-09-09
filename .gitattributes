@@ -1,0 +1,1 @@
+demo_data/methylation/NA12878_methy.bed filter=lfs diff=lfs merge=lfs -text
